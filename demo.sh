@@ -3,7 +3,7 @@
 # Usage: ./demo.sh <command>
 set -uo pipefail
 NS=vmlab
-APPS_DOMAIN=apps.cluster-5cz6g.dyn.redhatworkshops.io
+APPS_DOMAIN=apps.cluster-nv9wc.dyn.redhatworkshops.io
 URL="http://web-${NS}.${APPS_DOMAIN}/"
 KEY="${HC3_KEY:-$HOME/.ssh/hc3demo}"
 
