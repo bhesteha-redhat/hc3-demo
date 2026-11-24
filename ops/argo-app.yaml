@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/hestehave/hc3-demo.git
+    repoURL: https://github.com/bhesteha-redhat/hc3-demo.git
     targetRevision: main
     path: manifests
   destination:

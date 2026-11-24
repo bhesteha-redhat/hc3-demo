@@ -76,7 +76,7 @@ spec:
             password: hc3demo
             chpasswd: {expire: false}
             ssh_authorized_keys:
-              - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFbSct1drUZNjS/GBH6u62YKhrIDb1of/Ui/cax5Y4+x hestehave@Mac.localdomain
+              - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO9QHPLAyxpAj17JmjV6bMxkiKdfedBJsJ4916RfsEc7 bhesteha@bhesteha-mac
             write_files:
             - path: /srv/www/index.html
               content: |
